@@ -1,1 +1,1 @@
-C:\Users\yangming.xu\Documents\My Virtual Machines\TestVM\hd1_TestVM.vhd
+Test adding a file
